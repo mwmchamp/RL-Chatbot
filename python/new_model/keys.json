@@ -1,7 +1,9 @@
 {
-    "api_keys": {
-        "speechify": {
-            "api_key": "gSgF8uGClYEwpc4XgPQdASKJEmUbkDXwSwFlXDAUst8="
-        }
+    "speechify": {
+        "api_key": "gSgF8uGClYEwpc4XgPQdASKJEmUbkDXwSwFlXDAUst8="
+    },
+    "hume": {
+        "api_key": "Jotp6qGrGQdxAl6JTqh1Qfhe2KaRiVMnGzEoVARZ6qk2yJd2",
+        "secret_key": "yUQSch0JfpGxcV3SGEWp6UBVHF9hc2W2f7xmJJeRG4m8hynAj3b9gn5UD5QOqnRq"
     }
 }
